@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<stocks product="在庫">
+  <stock num="0001">
+    <product>テスト製品1</product>
+    <partnumber>T-0000002</partnumber>
+    <kinds>完成品</kinds>
+    <storagelocation>倉庫A</storagelocation>
+    <quantity>450</quantity>
+  </stock>
+  <stock num="0002">
+    <product>テスト製品2</product>
+    <partnumber>T-0000004</partnumber>
+    <kinds>仕掛品</kinds>
+    <storagelocation>倉庫B</storagelocation>
+    <quantity>380</quantity>
+  </stock>
+  <stock num="0003">
+    <product>テスト製品4</product>
+    <partnumber>T-0000001</partnumber>
+    <kinds>部品</kinds>
+    <storagelocation>倉庫N</storagelocation>
+    <quantity>780</quantity>
+  </stock>
+  <stock num="0004">
+    <product>テスト製品3</product>
+    <partnumber>T-0000005</partnumber>
+    <kinds>完成品</kinds>
+    <storagelocation>倉庫A</storagelocation>
+    <quantity>580</quantity>
+  </stock>
+  <stock num="0005">
+    <product>テスト製品7</product>
+    <partnumber>T-0000009</partnumber>
+    <kinds>支給品</kinds>
+    <storagelocation>倉庫B</storagelocation>
+    <quantity>180</quantity>
+  </stock>
+  <stock num="0006">
+    <product>テスト製品5</product>
+    <partnumber>T-0000010</partnumber>
+    <kinds>部品</kinds>
+    <storagelocation>倉庫M</storagelocation>
+    <quantity>4800</quantity>
+  </stock>
+  <stock num="0007">
+    <product>テスト製品6</product>
+    <partnumber>T-0000008</partnumber>
+    <kinds>完成品</kinds>
+    <storagelocation>倉庫S</storagelocation>
+    <quantity>350</quantity>
+  </stock>
+  <stock num="0008">
+    <product>テスト製品8</product>
+    <partnumber>T-0000003</partnumber>
+    <kinds>仕掛品</kinds>
+    <storagelocation>倉庫H</storagelocation>
+    <quantity>120</quantity>
+  </stock>
+  <stock num="0009">
+    <product>テスト製品1</product>
+    <partnumber>T-0000004</partnumber>
+    <kinds>支給品</kinds>
+    <storagelocation>倉庫I</storagelocation>
+    <quantity>440</quantity>
+  </stock>
+  <stock num="0010">
+    <product>テスト製品9</product>
+    <partnumber>T-0000005</partnumber>
+    <kinds>試作品</kinds>
+    <storagelocation>倉庫B</storagelocation>
+    <quantity>180</quantity>
+  </stock>
+</stocks>
